@@ -79,9 +79,9 @@ $(document).ready(function(){
   $("#work8").mouseover(function(){
     $("#overlay8").show();
   }).mouseout(function(){
-    $("#overlay8").hide();
+    $("#overlay8").hide();     
   });
-});
+});        
 
 $(document).ready(function(){
   $("form#form34A").submit(function(event){
@@ -96,6 +96,6 @@ $(document).ready(function(){
       alert("Please enter your name and email!");
     }
     
-  });
+  });    
 
-});
+});       
