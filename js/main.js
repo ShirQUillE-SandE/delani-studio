@@ -5,5 +5,8 @@
     if ($("input#MERGE1").val() && $("input#MERGE0").val()){
       alert (name + ", we have received your message. Thank you for reaching out to us.");
     }
-    else {
+    else {   
       alert("Please enter your name and email!")}
+
+
+      
