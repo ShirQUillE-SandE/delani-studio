@@ -13,16 +13,8 @@ html{
 
 }
 
-}
 
-#mouse-click {
-  animation: bounce 2s infinite;
-}
 
-.landing h1{
-  padding: 2px;
-  margin: 5px;
-}
 .landing p{
   padding: 2px;
 }
