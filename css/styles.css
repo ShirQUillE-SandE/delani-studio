@@ -141,7 +141,7 @@ footer{
   padding-top: 30px;
   font-family: 'Delius Swash Caps', cursive;
 }
-
+       
 input[type=text],input[type=email],#comment{
   background: transparent;
   color: white;
@@ -161,6 +161,8 @@ footer p{
   font-size: 20px;
   font-weight: 600;
 }
+
+
 #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
   display: none;
   color: black;
@@ -190,6 +192,8 @@ footer p{
     width:100%px;
     margin: 20px;
   }
+
+
   #portfolio{
     margin-left:8%;
     margin-right: 16%; 
@@ -211,6 +215,8 @@ footer p{
     padding-top: 20%;
     font-size: 20px;
   }
+
+
   .col-md-3 img{
     width:100%px;
     margin: 20px;
@@ -219,6 +225,8 @@ footer p{
     margin-left:8%;
     margin-right: 16%; 
   }
+
+
   button{
     padding-bottom: 30px;
     margin-bottom: 20px;
@@ -238,7 +246,7 @@ footer p{
     width: 84%;
   }
 }
-@media only screen and (min-width: 825px){
+  @media only screen and (min-width: 825px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     width: 100%;
     height: 100%;
