@@ -19,7 +19,7 @@
 
   
 ## Live link
-    Deployed project can be accessed here -  [Akan Names Generator](https://shirquille-sande.github.io/delani-studio/)
+    Deployed project can be accessed here -  [ Decan Studio Landing Page](https://shirquille-sande.github.io/delani-studio/)
 ​
 ## Technologies used
     - HTML
